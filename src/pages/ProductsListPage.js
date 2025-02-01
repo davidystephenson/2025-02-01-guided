@@ -1,5 +1,7 @@
+import { Container } from "react-bootstrap";
+
 export default function ProductsListPage () {
   return (
-    <div>ProductsListPage</div>
+    <Container>ProductsListPage</Container>
   )
 }
